@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ad6484f9-50ff-412a-8c82-ebb61de50572)# Eva2ProgLogFunc
+
 Repositorio que aloja los codigos de la evaluación escrita del tema 2
 
 TITULO DEL TRABAJO:  
